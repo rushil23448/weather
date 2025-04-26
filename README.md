@@ -1,22 +1,7 @@
 🌦️ Weather App
 A simple and elegant weather application that fetches real-time weather data using the OpenWeather API and displays it in a user-friendly interface.
 
-📂 Project Structure
 
-
-OST_PROJECT/
-│
-├── OST_project/
-│   ├── __pycache__/
-│   ├── background.jpg
-│   ├── config.py
-│   ├── ui.py
-│   ├── utils.py
-│   ├── weather_api.py
-│   └── main.py
-│
-├── requirements.txt
-└── run_weather_app.sh (optional setup script)
 ⚙️ Features
 Fetches real-time weather data from OpenWeather.
 
